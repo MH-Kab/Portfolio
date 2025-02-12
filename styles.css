@@ -1,0 +1,112 @@
+.profile-img{
+    border-radius: 50%;
+    height: 200px;
+}
+
+.feature{
+    border-radius: 10%;
+}
+
+
+/* Font Family Philosopher */
+.philosopher-regular {
+    font-family: "Philosopher", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.philosopher-bold {
+    font-family: "Philosopher", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+.philosopher-regular-italic {
+    font-family: "Philosopher", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+  
+.philosopher-bold-italic {
+    font-family: "Philosopher", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+  
+/* Font Family Ubuntu */
+.ubuntu-light {
+    font-family: "Ubuntu", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .ubuntu-regular {
+    font-family: "Ubuntu", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .ubuntu-medium {
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .ubuntu-bold {
+    font-family: "Ubuntu", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .ubuntu-light-italic {
+    font-family: "Ubuntu", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .ubuntu-regular-italic {
+    font-family: "Ubuntu", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .ubuntu-medium-italic {
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .ubuntu-bold-italic {
+    font-family: "Ubuntu", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+
+
+
+
+          /* Basic styling for the contact form.  Customize as needed */
+          .contact-form .form-field {
+            margin-bottom: 1rem; /* Space between form fields */
+        }
+
+        .contact-form .form-control {
+            border-radius: 0.5rem; /* Slightly rounded corners */
+            padding: 0.75rem 1rem; /* Adjust padding as needed */
+        }
+
+        .contact-form .form-control:focus {
+            box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Subtle focus ring */
+        }
+
+        .contact-form textarea.form-control {
+            height: 120px; /* Adjust height as needed */
+        }
+
+        .contact-form .btn-primary {
+            background-color: #007bff; /* Example primary color */
+            border-color: #007bff;
+        }
+  
+  
